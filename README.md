@@ -21,7 +21,7 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
-HTML, CSS by Hart Ramsey. Space background image by http://1-background.com/images/stars-1/star-space-tile.jpg. The RSS feed image is owned by the Mozilla Foundation. 
+HTML, CSS by Hart Ramsey. Space background image by http://1-background.com/images/stars-1/star-space-tile.jpg. The RSS feed image is owned by the Mozilla Foundation. The wood bar is owned by theoatmeal. 
 
 
 
