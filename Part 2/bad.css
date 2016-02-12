@@ -1,0 +1,41 @@
+body {
+/* Source http://1-background.com/images/stars-1/star-space-tile.jpg*/
+	background-color: #000000;
+	background-image: url("star-space-tile.jpg");
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	text-align: center;
+	color: pink;
+}
+
+h1 {
+	color: cyan;
+}
+
+table.urls {
+	align: center;
+	background-color: red;
+
+}
+
+a {
+	color: white;
+}
+
+p {
+	color: pink;
+	font-size: medium;
+}
+
+p.yellowtxt {
+	color: yellow;
+	font-size: larger;
+}
+
+#promo {
+	font-size: small;
+	color: red;
+
+}
+.callus {
+	color: yellow;
+}
